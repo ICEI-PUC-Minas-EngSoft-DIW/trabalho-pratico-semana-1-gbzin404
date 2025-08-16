@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Gabril Eduardo de Oliveira
+Matricula:899896
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](image.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![alt text](image-1.png)
 
 
 ## Orientações sobre Linguagem MarkDown
